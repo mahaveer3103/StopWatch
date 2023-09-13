@@ -1,0 +1,26 @@
+Body{
+    background-color: aquamarine;
+}
+#time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    font-size: 5rem;
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    font-size: 5%;
+}
+
+#buttons button{
+    width: 100px;
+    height: 50px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    font-size: 1rem;
+   
+}
